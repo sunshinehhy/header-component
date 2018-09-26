@@ -1,5 +1,5 @@
 {
-  "name": "@ftchinese/ftc-header",
+  "name": "header-component",
   "version": "2.1.1",
   "description": "FTC Header",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FTChinese/ftc-header.git#1.0.0"
+    "url": "git+https://github.com/sunshinehhy/header-component.git#1.0.0"
   },
   "keywords": [
     "FTC",
@@ -17,9 +17,9 @@
   "author": "wangyichen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FTChinese/ftc-header/issues"
+    "url": "https://github.com/sunshinehhy/header-component.git/issues"
   },
-  "homepage": "https://github.com/FTChinese/ftc-header#readme",
+  "homepage": "https://github.com/sunshinehhy/header-component.git#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.18.0",
